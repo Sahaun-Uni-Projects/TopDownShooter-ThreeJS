@@ -1,0 +1,7 @@
+Models:
+https://www.mixamo.com
+
+Textures:
+https://opengameart.org/content/stone-pavement-ground-tile
+https://opengameart.org/content/3-crate-textures-w-bump-normal
+https://opengameart.org/content/brick-wall
